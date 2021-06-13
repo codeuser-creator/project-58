@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+
+    background-repeat: no-repeat
+}
+
+H1 {
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+img {
+    border-radius: 50;
+    width: 100px;
+}
+
+H1 {
+    text-shadow: 2px 2px #F8BBD0 font-size:35px
+}
+
+p {
+    font-size: 25px;
+    color: #00004d;
+    fot-weight: bold;
+}
+
+H2 {
+    font-size: 20px;
+    color: #80D8FF;
+}
+
+.line {
+
+    height: 6px;
+    background-color: gray;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    cursor: pointer;
+    color: black;
+}
+
+#myname {
+    font-family: 'courgette', cursive;
+}
